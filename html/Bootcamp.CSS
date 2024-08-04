@@ -1,0 +1,17 @@
+h1{font-family:'Times New Roman', Times, serif}
+.fontPenjelas{font-family:Verdana, Geneva, Tahoma, sans-serif}
+.fontPenjelas{font-size:medium;}
+h2{font-family:'Times New Roman', Times, serif}
+.namaTempat{font-family:Verdana, Geneva, Tahoma, sans-serif}
+.namaTempat{
+   font-weight: bold;
+   font-style: oblique;
+  }
+aside {
+    width: 1035px;
+    padding-left: 12px;
+    padding-right: 15px;
+    float: right;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  body{background-image: radial-gradient(circle, cornsilk, rgb(238, 197, 197));}
